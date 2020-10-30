@@ -42,4 +42,4 @@
 @keyframes animatebottom { 
   from{ bottom:-100px; opacity:0 } 
   to{ bottom:0; opacity:1 }
-}</style><link href="/css/app.37e6fd2a.css" rel="preload" as="style"><link href="/js/app.ca6c0574.js" rel="preload" as="script"><link href="/js/chunk-vendors.a57160a3.js" rel="preload" as="script"><link href="/css/app.37e6fd2a.css" rel="stylesheet"></head><body><div id="loader"></div><div id="app" style="display: none;"></div><script src="/js/chunk-vendors.a57160a3.js"></script><script src="/js/app.ca6c0574.js"></script></body></html><script></script>
+}</style><link href="/css/app.79cc5058.css" rel="preload" as="style"><link href="/js/app.f21bdf57.js" rel="preload" as="script"><link href="/js/chunk-vendors.a57160a3.js" rel="preload" as="script"><link href="/css/app.79cc5058.css" rel="stylesheet"></head><body><div id="loader"></div><div id="app" style="display: none;"></div><script src="/js/chunk-vendors.a57160a3.js"></script><script src="/js/app.f21bdf57.js"></script></body></html><script></script>
